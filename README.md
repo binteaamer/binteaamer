@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi there, This is Abeeha Binte Aamer 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
@@ -93,13 +93,13 @@ Mathematical tool for matrix operations
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.binteaamer04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/Abeeha Binte Aamer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourprofile">
+  <a href="https://twitter.com/abeehaaaaaa">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
@@ -109,5 +109,5 @@ Mathematical tool for matrix operations
 <p align="center">
   <i>Open to collaborations and exciting opportunities!</i>
   <br>
-  <i>⚡ Fun fact: I debug hardware at 2 AM with LEDs and logic gates! 💡</i>
+  <i>⚡ Fun fact: I paint exceptionally well 💡</i>
 </p>
