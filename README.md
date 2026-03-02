@@ -6,8 +6,11 @@
 
 ## About Me
 
-I'm a Computer Science Junior at FAST NUCES with a strong foundation in multiple programming languages and web technologies. Just into Math and Science in tech so I chose to do cs. wont give titles as of yet! :) 
-below are some of my Grad school projects built with great friends!
+
+I'm a Computer Science Junior at FAST NUCES with a strong foundation in multiple programming languages and web technologies. Just really into Math and Science in tech so I chose to do CS. Won't give myself titles as of yet! :) 
+I love art and creativity and the beauty of solving real world problems with logic. 
+
+Below are some of my Grad school projects built with great friends!
 
 ## 🛠️ Tech Stack
 
