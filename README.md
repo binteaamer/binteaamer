@@ -45,43 +45,68 @@ I'm a passionate Computer Science student with a strong foundation in multiple p
 | **Maze Runner** | Interactive maze generator and solver using Raylib with multiple data structures | C++, Raylib, Data Structures | [View Project](#) |
 | **RREF & REF Solver** | Linear algebra tool for solving matrices in reduced row echelon form | Linear Algebra, C++ | [View Project](#) |
 
-## 📊 Project Details
 
-### 🎮 Coin Collector Game *(1st Semester)*
+## ✨ Project Highlights
+
+### 🎮 Coin Collector Game
+**📍 1st Semester | Programming Fundamentals**
+
+<img src="./assets/Coincollectot.png" width="600" alt="Coin Collector Game">
+
 A terminal-based adventure game that brings retro gaming to the command line!
 - **Features:** Emoji-based graphics on dynamic 10×10 grid, WASD controls
 - **Technical Highlights:** Context-sensitive sound effects, persistent high score tracking via file I/O, UTF-8 compatibility in Windows Terminal
 - **Concepts Applied:** File handling, Unicode rendering, event-driven programming
 
-### 🔋 Solar Panel Efficiency Simulator *(2nd Semester - DLD Course)*
+---
+
+### 🔋 Solar Panel Efficiency Simulator
+**📍 2nd Semester | Digital Logic Design (DLD)**
+
+<img src="./assets/SolarPanelEfficiencySimulator.png" width="600" alt="Solar Panel Efficiency Simulator">
+
 Pure digital logic simulation of solar panel efficiency without microcontrollers!
 - **Features:** Binary/decimal input modes, LED indicators for warnings, seven-segment displays
 - **Technical Highlights:** PROMs for cosine lookup and multiplication, BCD conversion, counters for decimal input
 - **Concepts Applied:** Digital logic gates, multiplexers, counters, decoders
 
-### 🦥 Slots for Sloths *(2nd Semester - OOP Course)*
+---
+
+### 🦥 Slots for Sloths
+**📍 2nd Semester | Object Oriented Programming (OOP)**
+
+<img src="./assets/SlotsForSloths.png" width="600" alt="Slots for Sloths">
+
 C++ based facility booking system simplifying campus resource management
 - **Features:** Book/unbook/edit slots, auto-save to files, view all facilities
 - **Technical Highlights:** Multiple inheritance, polymorphism, operator overloading, templates
 - **Concepts Applied:** Full OOP spectrum including encapsulation, abstraction, file handling
 
-### 🔢 NumeraX *(3rd Semester - COAL Project)*
+---
+
+### 🔢 NumeraX
+**📍 3rd Semester | Computer Organization and Assembly Language (COAL)**
+
+<img src="./assets/NumeraX.png" width="600" alt="NumeraX">
+
 x86 assembly program mastering number system conversions
 - **Features:** Binary/Decimal/Octal/Hexadecimal conversion, quiz mode, speed testing
 - **Technical Highlights:** Low-level execution optimization, real-time accuracy tracking
 - **Concepts Applied:** Assembly programming, computer organization, base conversions
 
-### 🏃 Maze Runner *(3rd Semester - Data Structures)*
+---
+
+### 🏃 Maze Runner
+**📍 3rd Semester | Data Structures**
+
+<img src="./assets/mazerunner.png" width="600" alt="Maze Runner">
+
 Interactive maze game showcasing data structure implementations
 - **Features:** Maze generation, shortest path solving, move replay, scoreboards
 - **Technical Highlights:** Custom stack (DFS), custom queue (BFS), hash table for visited cells, BST for scoreboards
 - **Concepts Applied:** Data structures, algorithm visualization, game development
 
-### 📐 RREF & REF Solver *(3rd Semester - Linear Algebra)*
-Mathematical tool for matrix operations
-- **Features:** Row reduction to echelon forms
-- **Technical Highlights:** Efficient matrix manipulation algorithms
-- **Concepts Applied:** Linear algebra, numerical methods
+---
 
 ## 📫 Let's Connect!
 
