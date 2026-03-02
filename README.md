@@ -37,18 +37,16 @@ Below are some of my Grad school projects built with great friends!
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
 ## 📂 Featured Projects
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| **Coin Collector Game** | First-semester terminal-based game with emoji graphics, sound effects, and persistent high scores | Python | [View Project](#) |
-| **Solar Panel Efficiency Simulator** | Digital logic design project simulating solar panel efficiency using PROMs, counters, and LEDs | Logisim, Digital Logic | [View Project](#) |
-| **Slots for Sloths** | OOP-based facility booking system for campus resources | C++, OOP Concepts | [View Project](#) |
-| **NumeraX** | x86 assembly program for number system conversions with quiz and speed test modes | Assembly, x86 | [View Project](#) |
-| **Maze Runner** | Interactive maze generator and solver using Raylib with multiple data structures | C++, Raylib, Data Structures | [View Project](#) |
+| **Coin Collector Game** | First-semester terminal-based game with emoji graphics, sound effects, and persistent high scores | Python | [View Project](https://github.com/zunairahshaikh/Coin_Collector_Game) |
+| **Solar Panel Efficiency Simulator** | Digital logic design project simulating solar panel efficiency using PROMs, counters, and LEDs | Logisim, Digital Logic | [View Project](https://github.com/binteaamer/Solar-Panel-Efficiency-Simulator-) |
+| **Slots for Sloths** | OOP-based facility booking system for campus resources | C++, OOP Concepts | [View Project](https://github.com/zunairahshaikh/Slots-For-Sloths) |
+| **NumeraX** | x86 assembly program for number system conversions with quiz and speed test modes | Assembly, x86 | [View Project](https://github.com/binteaamer/NumeraX) |
+| **Maze Runner** | Interactive maze generator and solver using Raylib with multiple data structures | C++, Raylib, Data Structures | [View Project](https://github.com/LaibaKhan118/Maze-Runner) |
 | **RREF & REF Solver** | Linear algebra tool for solving matrices in reduced row echelon form | Linear Algebra, C++ | [View Project](#) |
-
 
 ## ✨ Project Highlights
 
