@@ -1,7 +1,7 @@
 # 👋 Hi there, This is Abeeha Binte Aamer 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=CComputer+Science+Student+at+FAST+NUCESS;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E97F7&center=true&vCenter=true&width=550&lines=Computer+Science+Student+at+FAST+NUCES;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
 ## About Me
 
