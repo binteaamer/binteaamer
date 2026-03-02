@@ -51,7 +51,7 @@ I'm a passionate Computer Science student with a strong foundation in multiple p
 ### 🎮 Coin Collector Game
 **📍 1st Semester | Programming Fundamentals**
 
-<img src="./assets/Coincollectot.png" width="600" alt="Coin Collector Game">
+<img src="./assets/Coincollector.png" width="600" alt="Coin Collector Game">
 
 A terminal-based adventure game that brings retro gaming to the command line!
 - **Features:** Emoji-based graphics on dynamic 10×10 grid, WASD controls
@@ -74,8 +74,6 @@ Pure digital logic simulation of solar panel efficiency without microcontrollers
 
 ### 🦥 Slots for Sloths
 **📍 2nd Semester | Object Oriented Programming (OOP)**
-
-<img src="./assets/SlotsForSloths.png" width="600" alt="Slots for Sloths">
 
 C++ based facility booking system simplifying campus resource management
 - **Features:** Book/unbook/edit slots, auto-save to files, view all facilities
