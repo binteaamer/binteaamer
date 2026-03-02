@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate Computer Science student with a strong foundation in multiple programming languages and web technologies. I love building projects that solve real-world problems and exploring the intersection of hardware and software through digital logic design.
+I'm a Computer Science Junior at FAST NUCES with a strong foundation in multiple programming languages and web technologies. I love building projects that solve real-world problems and exploring the intersection of hardware and software through digital logic design.
 
 ## 🛠️ Tech Stack
 
