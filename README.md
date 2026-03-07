@@ -41,7 +41,7 @@ Below are some of my Grad school projects built with great friends!
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| **Coin Collector Game** | First-semester terminal-based game with emoji graphics, sound effects, and persistent high scores | Python | [View Project](https://github.com/zunairahshaikh/Coin_Collector_Game) |
+| **Coin Collector Game** | First-semester terminal-based game with emoji graphics, sound effects, and persistent high scores | C language | [View Project](https://github.com/zunairahshaikh/Coin_Collector_Game) |
 | **Solar Panel Efficiency Simulator** | Digital logic design project simulating solar panel efficiency using PROMs, counters, and LEDs | Logisim, Digital Logic | [View Project](https://github.com/binteaamer/Solar-Panel-Efficiency-Simulator-) |
 | **Slots for Sloths** | OOP-based facility booking system for campus resources | C++, OOP Concepts | [View Project](https://github.com/zunairahshaikh/Slots-For-Sloths) |
 | **NumeraX** | x86 assembly program for number system conversions with quiz and speed test modes | Assembly, x86 | [View Project](https://github.com/binteaamer/NumeraX) |
